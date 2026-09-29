@@ -1,4 +1,4 @@
-# [Project Name]
+# [Project GlassBox]
 
 Open research on transparent, verifiable elections for India.
 
