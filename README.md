@@ -32,14 +32,14 @@ India's elections currently use EVMs with VVPAT paper trails, run by the Electio
 
 These are the hard questions we need help with. Each has (or will have) a GitHub issue.
 
-- Cast-as-intended verification without enabling vote-selling or coercion
-- Anonymous voter credentials without a central biometric database
-- Long-term ballot privacy against future (including quantum) attackers
-- Proof systems without a trusted setup
-- Distributed key generation and tally availability when key-holders refuse to participate
-- Hardware trust: verifying the devices that are actually deployed
-- Dispute resolution and remedies when something goes wrong
-- Usability and accessibility for India's languages, literacy levels, and scale
+- [Cast-as-intended verification without enabling vote-selling or coercion](https://github.com/nakulBankura/projectGlassBox/issues/3)
+- [Anonymous voter credentials without a central biometric database](https://github.com/nakulBankura/projectGlassBox/issues/4)
+- [Long-term ballot privacy against future (including quantum) attackers](https://github.com/nakulBankura/projectGlassBox/issues/5)
+- [Proof systems without a trusted setup](https://github.com/nakulBankura/projectGlassBox/issues/6)
+- [Distributed key generation and tally availability](https://github.com/nakulBankura/projectGlassBox/issues/7)
+- [Hardware trust: verifying the devices that are actually deployed](https://github.com/nakulBankura/projectGlassBox/issues/8)
+- [Dispute resolution and remedies when something goes wrong](https://github.com/nakulBankura/projectGlassBox/issues/9)
+- [Usability and accessibility across India's languages, literacy levels and scale](https://github.com/nakulBankura/projectGlassBox/issues/10)
 
 ## Repository layout
 
